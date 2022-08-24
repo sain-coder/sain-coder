@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sain_coder_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sain_coder_404" height="30" width="40" /></a>
 <a href="https://fb.com/saincoder404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saincoder404" height="30" width="40" /></a>
-<a href="https://instagram.com/sain-coder-404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sain-coder-404" height="30" width="40" /></a>
+<a href="https://instagram.com/sain_coder_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sain-coder-404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
